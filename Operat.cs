@@ -56,6 +56,10 @@ namespace OP
         {
             return Math.Pow(a, 1 / rootof); //Feat1
         }
+        static public string Help()
+        {
+            return "Help"; // Feat2
+        }
         
     }
 }
