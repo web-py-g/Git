@@ -60,6 +60,13 @@ namespace OP
         {
             return "Help"; // Feat2
         }
-        
+        static public string Help2()
+        {
+            return "Help2"; // Feat3
+        }
+        static public string Help4()
+        {
+            return "1"; // Feat4
+        }
     }
 }
